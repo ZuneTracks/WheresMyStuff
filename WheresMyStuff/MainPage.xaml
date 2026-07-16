@@ -70,8 +70,7 @@
                 <ComboBox 
                     x:Name="CarrierComboBox" 
                     PlaceholderText="Select Carrier" 
-                    Width="200"
-                    ItemsSource="{Binding Carriers}">
+                    Width="200">
                     <ComboBoxItem>fedex</ComboBoxItem>
                     <ComboBoxItem>ups</ComboBoxItem>
                     <ComboBoxItem>usps</ComboBoxItem>
